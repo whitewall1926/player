@@ -19,6 +19,7 @@
 	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="lib" path="lib/vlcj-3.12.1.jar"/>
 	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.47.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_231"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
